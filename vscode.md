@@ -1,2 +1,2 @@
 ### Color theme
-Firefox quantum dark
+Firefox Quantum Dark
