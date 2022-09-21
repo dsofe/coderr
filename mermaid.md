@@ -47,7 +47,7 @@ journey
 
 <br>
 
-::: mermaid
+``` mermaid
 graph TD
 %%{init: {"flowchart": { "useMaxWidth": false } }}%%
 A[Author sends a review to the customer success email] -->|Dynamics 365 creates a review case based on the Knowledge Base Article Review Template| B[[Automation]]
@@ -62,4 +62,4 @@ I -->J[Agent closes the review case in D365]
 J -->K[Flare author receives notification of returned review via Madcap Central email]
 K -->L[Flare author implements changes in Flare and accepts the file]
 L -->M[Flare author synchronizes project with source control]
-:::
+```
