@@ -63,3 +63,13 @@ J -->K[Flare author receives notification of returned review via Madcap Central 
 K -->L[Flare author implements changes in Flare and accepts the file]
 L -->M[Flare author synchronizes project with source control]
 ```
+
+<br>
+
+```mermaid
+graph LR
+    A[Square Rect] -- Link text --> B((Circle))
+    A --> C(Round Rect)
+    B --> D{Rhombus}
+    C --> D
+```
