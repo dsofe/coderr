@@ -1,1 +1,1 @@
-My collection of code snippets and insights.
+A collection of code snippets and insights.
