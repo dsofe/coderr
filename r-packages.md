@@ -26,4 +26,4 @@ testthat	3.0.2	standard (@3.0.2)
 tidyr	1.1.2	standard (@1.1.2)     
 vctrs	0.3.6	standard (@0.3.6)     
 xml2	1.3.2	standard (@1.3.2)     
-zeallot	0.1.0	standard (@0.1.0)     
+zeallot	0.1.0	standard (@0.1.0) // https://github.com/r-lib/zeallot       
