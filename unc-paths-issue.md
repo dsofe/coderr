@@ -60,3 +60,5 @@ Date of error: 11/18/22
     "use_tinytex": true
 }
 ```
+
+the settings supported in the user (or system) `rstudio-prefs.json` file
