@@ -21,6 +21,10 @@ cd users\smithda\rwd\SOME-FOLDER
 quarto create-project
 // to create new project
 
+dir
+// to check list of all files and folders in the current directory
+// excellent way to confirm changes you made to that directory
+
 
 // ALSO
 
